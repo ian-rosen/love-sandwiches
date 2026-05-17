@@ -1,6 +1,6 @@
 # love-sandwiches
 
-[A small project that interacts with Google Sheets to manage sandwich-related data.]
+A small project that interacts with Google Sheets to manage sandwich-related data.
 
 ## Table of Contents
 - [Overview](#overview)
